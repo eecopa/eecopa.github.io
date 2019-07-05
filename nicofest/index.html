@@ -70,13 +70,29 @@
   </head>
   <body>
     <div class="container">
+      <h2>
+        Muy pronto! Reunion en lo de la chancha de Nico
+      </h2>
+      <img width="50" src="dedo.png" alt="dedo" />
+      <img id="nico" src="pp.jpeg" alt="nico" />
+
       <h1 id="counter"></h1>
-      <h1 id="message"></h1>
     </div>
+    <div class="container" id="message" style="display: none">
+      <h1>
+        <img width="50" src="fuego.png" alt="fuego" />
+        ¡Dale que es hoy viejaaaaa!
+        <img width="50" src="fuego.png" alt="fuego" />
+      </h1>
+      <img src="birras.png" alt="birras" />
+    </div>
+
     <script>
       var countDownDate = new Date("Jul 8, 2019 01:00:00").getTime();
 
       var x = setInterval(function() {
+        var hourNow = new Date().getHours();
+
         var now = new Date().getTime();
 
         var distance = countDownDate - now;
@@ -93,8 +109,7 @@
 
         if (distance < 0) {
           clearInterval(x);
-          document.getElementById("message").innerHTML =
-            "Dale que es hoy viejaaaaa!";
+          document.getElementById("message").style.display = "block";
         }
       }, 1000);
     </script>
