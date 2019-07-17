@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.381ae652.chunk.css",
-    "main.js": "/static/js/main.fba212d5.chunk.js",
-    "main.js.map": "/static/js/main.fba212d5.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.8081392b.chunk.js": "/static/js/2.8081392b.chunk.js",
-    "static/js/2.8081392b.chunk.js.map": "/static/js/2.8081392b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.110ec17e386adf6d7e6df06f34d327c8.js": "/precache-manifest.110ec17e386adf6d7e6df06f34d327c8.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.381ae652.chunk.css.map": "/static/css/main.381ae652.chunk.css.map",
-    "static/media/ambito.png": "/static/media/ambito.697d0fb1.png"
+    "main.css": "jessie/static/css/main.381ae652.chunk.css",
+    "main.js": "jessie//static/js/main.fba212d5.chunk.js",
+    "main.js.map": "jessie//static/js/main.fba212d5.chunk.js.map",
+    "runtime~main.js": "jessie//static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "jessie//static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.8081392b.chunk.js": "jessie//static/js/2.8081392b.chunk.js",
+    "static/js/2.8081392b.chunk.js.map": "jessie//static/js/2.8081392b.chunk.js.map",
+    "index.html": "jessie/index.html",
+    "precache-manifest.110ec17e386adf6d7e6df06f34d327c8.js": "jessie/precache-manifest.110ec17e386adf6d7e6df06f34d327c8.js",
+    "service-worker.js": "jessie/service-worker.js",
+    "static/css/main.381ae652.chunk.css.map": "jessie/static/css/main.381ae652.chunk.css.map",
+    "static/media/ambito.png": "jessie/static/media/ambito.697d0fb1.png"
   }
 }
